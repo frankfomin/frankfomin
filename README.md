@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello there 👋 I'm Frank a hobby dev from Sweden 🇸🇪
+
+
+
 
 <!--
 **frankfomin/frankfomin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
