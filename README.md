@@ -8,3 +8,7 @@ from simple ideas to fully working products.
 My preferred tech stack for web development is **React, Next.js, TypeScript, and Tailwind CSS**.
 
 I’m currently learning **Golang**, which has been super fun so far.
+
+You can reach me at hello@frankfomin.com
+
+Feel free to visit my [portfolio](https://frankfomin.com)
