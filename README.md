@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-I'm Frank, a hobby developer from Sweden 🇸🇪
+I'm Frank, a junior developer from Sweden 🇸🇪
 
 What I love most about programming is that you can build almost anything you can imagine 
 from simple ideas to fully working products.
